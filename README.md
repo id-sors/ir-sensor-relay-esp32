@@ -30,3 +30,10 @@ Wave your hand in front of the sensor to turn an LED on, and wave again to turn 
 1. Open `ir_relay_toggle.ino` in the Arduino IDE.
 2. Select your ESP32 board and port.
 3. Upload and open the Serial Monitor at 115200 baud.
+
+##
+
+https://github.com/user-attachments/assets/b5778739-36da-49da-ad19-df5b4d3eb13c
+
+
+
